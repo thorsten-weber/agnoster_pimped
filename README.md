@@ -2,7 +2,7 @@
 oh-my-zsh / zsh agnoster.zsh-theme 
 pimped for my needs with time and newline and shortended directory Listing in first line
 
-Thanks to [nweedle](github.com/nweddle) for the newline part
+Thanks to [nweedle](https://gist.github.com/nweddle) for the newline part
 
 Thanks to [agnoster](https://gist.github.com/agnoster)
 
